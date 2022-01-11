@@ -12,7 +12,7 @@ using namespace std;
 int main(int argc, char** argv) {
     
     cout << "bonjour" << endl;
-    
+    cout << "Merci de respecter les distance de securiter et les geste barriere" << endl;
     return 0;
 }
 
